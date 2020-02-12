@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MoneyData ICAgendy="05012261" KodAgendy="" HospRokOd="2019-01-01" HospRokDo="2019-12-31" description="interní doklady" ExpZkratka="_ID" ExpDate="2020-02-11" ExpTime="22:53:00" VyberZaznamu="0" GUID="{39D954BC-BE57-4529-8EA3-4C00817D90EC}">
+  <SeznamIntDokl>
+    <IntDokl>
+      <Popis>test test test</Popis>
+      <DatUcPr>2019-09-30</DatUcPr>
+      <DatPln>2019-09-30</DatPln>
+      <DatUplDPH>2019-09-30</DatUplDPH>
+      <PrKont>STAVY_VZZ</PrKont>
+      <Cleneni>19Ř00P</Cleneni>
+      <Celkem>111</Celkem>
+      <DRada>IDrr</DRada>
+      <SouhrnDPH>
+        <Zaklad0>111</Zaklad0>
+        <Zaklad5>0</Zaklad5>
+        <Zaklad22>0</Zaklad22>
+        <DPH5>0</DPH5>
+        <DPH22>0</DPH22>
+      </SouhrnDPH>
+    </IntDokl>
+  </SeznamIntDokl>
+</MoneyData>
